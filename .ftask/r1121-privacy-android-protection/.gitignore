@@ -1,0 +1,10 @@
+# ftask: runtime-only files for this slug — never commit.
+# Audit files (SPEC.md / SPEC.status / REVIEW.md / SIM_TRACE.md /
+# doc.ref) stay tracked.
+.env
+sim_artifacts/
+REVIEW.diff
+HANDOFF.md
+RESUME.md
+qa/
+test-shards/

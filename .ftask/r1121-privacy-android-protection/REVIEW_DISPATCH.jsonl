@@ -1,0 +1,1 @@
+{"started_at":"2026-11-21T11:33:37.134Z","engine":"agy","requested_model":"gemini-4-neon-high","actual_model":"unknown","reported_models":[],"dispatch_ms":144460,"exit_code":0,"timed_out":false,"error_kind":null,"timeout_sec":300,"evidence_preflight_ms":237,"covered_rule_id":null,"quota_scope":null}
